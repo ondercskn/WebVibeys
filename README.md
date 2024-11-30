@@ -1,4 +1,4 @@
-# Portfolio
+# WebVibeys
 Bu proje, web geliştirme becerilerini sergileyen bir portföy sitesidir. HTML ve CSS kullanarak basit bir web sitesi tasarımı yapılmıştır.
  Bu repository'yi bilgisayarınıza klonlayın sırasıyla:
   apt update
