@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Önder Coşkun</h1>
+            <p>Web Developer & Problem Solver</p>
+        </div>
+    </header>
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>I am a passionate web developer focusing on building clean, responsive, and functional websites. My goal is to create user-friendly digital experiences.</p>
+        </section>
+        <section id="projects">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>Project 1: Personal Blog</h3>
+                <p>A responsive blog template built using HTML, CSS, and JavaScript.</p>
+            </div>
+            <div class="project">
+                <h3>Project 2: Portfolio Website</h3>
+                <p>An elegant personal portfolio showcasing my skills and projects.</p>
+            </div>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:ondercskn622@gmail.com">ondercskn622@gmail.com</a></p>
+            <p>LinkedIn: <a href="https://linkedin.com/in/ondercoskun" target="_blank">linkedin.com/in/ondercoskun</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Önder Coşkun. All rights reserved.</p>
+    </footer>
+</body>
+</html>
