@@ -4,6 +4,6 @@ Bu proje, web geliştirme becerilerini sergileyen bir portföy sitesidir. HTML v
   apt update
   apt upgrade
   bash
-  git clone https://github.com/ondercskn/portfolio.git
+  git clone https://github.com/ondercskn/WebVibeys.git
 12-34-35-39 Replace the codes in the sequence with your own e-mail.
 project completion time: 17 Days
